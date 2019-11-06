@@ -9,7 +9,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/florianl/go-nflog/internal/unix"
+	"github.com/rcsiberia/go-nflog/internal/unix"
 
 	"github.com/mdlayher/netlink"
 )

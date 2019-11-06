@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/florianl/go-nflog"
+	"github.com/rcsiberia/go-nflog"
 )
 
 func ExampleNflog_Register() {

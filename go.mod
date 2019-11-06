@@ -1,4 +1,4 @@
-module github.com/florianl/go-nflog
+module github.com/rcsiberia/go-nflog
 
 require (
 	github.com/google/go-cmp v0.3.1
